@@ -76,16 +76,8 @@ For those interested in contributing or extending the functionality, here's an o
 
 Contributions are welcome! Whether you want to add new features, fix bugs, or improve the documentation, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 Enjoy your memes! 😄
 
 ---
-
-### Contact
-
-If you have any questions or suggestions, feel free to open an issue or contact me at [your-email@example.com].
