@@ -27,8 +27,8 @@ To run this project locally, you'll need Python and Flask installed.
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/your-username/meme-website.git
-   cd meme-website
+   git clone https://github.com/n01syboii/MemeWebsite.git
+   cd MemeWebsite
    ```
 
 2. **Install the required packages:**
