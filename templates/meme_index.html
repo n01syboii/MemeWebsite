@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Meme Website</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="refresh" content="30" />
+    <link rel="stylesheet" href="\static\css\style.css" />
+  </head>
+  <body>
+    <h1>A website to gather some memes!</h1>
+    <div class="slideContainer">
+      <p>
+        <p>Refresh slider</p>
+        <input class="slider" id="myRange" type="range" min="1" max="100" step="1" value="30" />
+        <p>Here is your meme! This will refresh in <span id="output"></span> seconds!</p>
+      </p>
+    </div class="imageCard">
+    <div>
+      <p><img src="{{meme_pic}}" /></p>
+    </div>
+      <p>Current subreddit: {{subreddit}}</p>
+    
+    <script src="\static\js\script.js"></script>
+    
+  </body>
+</html>
